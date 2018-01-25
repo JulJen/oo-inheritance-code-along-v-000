@@ -7,8 +7,7 @@ class Vehicle
   end
 
   def go
-    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
-    # "vrrrrrrrooom!"
+    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!" || "vrrrrrrrooom!"
   end
 
   def fill_up_tank
