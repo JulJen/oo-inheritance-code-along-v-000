@@ -10,6 +10,6 @@ class Vehicle
     'VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!'
   end
 
-    
+
 
 end
